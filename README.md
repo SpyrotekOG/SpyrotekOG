@@ -17,6 +17,3 @@ Most of what you’ll find here are experiments, tools, and ongoing projects dri
 - Working on new projects  
 - Improving existing code  
 - Always learning something new
-
-## 📫 Get in touch
-Feel free to explore my repositories or reach out if you’re interested in collaborating.
